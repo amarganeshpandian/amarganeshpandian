@@ -1,4 +1,4 @@
-, I'm S. Amar Ganesh
+I'm S. Amar Ganesh
 
 🎓 **Computer Science and Engineering (CSE) Student**  
 📍 Rajalakshmi Engineering College, India  
@@ -33,5 +33,6 @@
 - 🌱 Always eager to learn and collaborate on system-level projects!
 
 ---
+
 
 
