@@ -29,10 +29,11 @@ I'm S. Amar Ganesh
 
 ## 📫 Connect with Me
 
-- 💬 Email: amarganesh.pandian0101@gmail.com
+- 💬 Email: pandianamarganesh8@gmail.com
 - 🌱 Always eager to learn and collaborate on system-level projects!
 
 ---
+
 
 
 
