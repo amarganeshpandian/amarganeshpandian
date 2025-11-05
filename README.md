@@ -19,6 +19,7 @@ I'm S. Amar Ganesh
   - ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
   - ![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=plastic&logo=verilog&logoColor=white) (Currently learning)
+  - ![C++]
   
 - **Tools / Editors:**
   - ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
@@ -32,6 +33,7 @@ I'm S. Amar Ganesh
 - 🌱 Always eager to learn and collaborate on system-level projects!
 
 ---
+
 
 
 
