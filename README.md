@@ -9,7 +9,8 @@ I'm S. Amar Ganesh
 ## Particularly Interested in
  - **Computer Architecture** & **Digital Logic** (ISA,Microarchitecture,etc)
  - **Operating Systems**
- - and also **High Level Software**
+ - **Embedded Systems**
+ - **Software Engineering**
 
 ---
 
@@ -32,6 +33,7 @@ I'm S. Amar Ganesh
 - 🌱 Always eager to learn and collaborate on system-level projects!
 
 ---
+
 
 
 
