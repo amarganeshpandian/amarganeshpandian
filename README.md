@@ -58,15 +58,6 @@ I am continuously improving my knowledge by building projects, studying system f
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amarganeshpandian&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarganeshpandian&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
@@ -85,10 +76,10 @@ I am continuously improving my knowledge by building projects, studying system f
 
 ---
 
-# GitHub Trophies
+# Visitor Count
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amarganeshpandian&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://komarev.com/ghpvc/?username=amarganeshpandian&style=for-the-badge"/>
 </p>
 
 ---
