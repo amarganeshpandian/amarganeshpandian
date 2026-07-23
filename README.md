@@ -79,7 +79,7 @@ I am continuously improving my knowledge by building projects, studying system f
 
 <p align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=github-dark\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarganeshpandian\&theme=github-dark\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </p>
 
