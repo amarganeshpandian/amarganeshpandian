@@ -86,12 +86,14 @@ I am continuously improving my knowledge by building projects, studying system f
 
 # Featured Projects
 
-| Project                       | Description                                                                            |
-| ----------------------------- | -------------------------------------------------------------------------------------- |
-| **Resume Analyzer**           | AI-powered resume analysis platform with resume parsing and intelligent feedback.      |
-| **RTL Design Projects**       | Verilog implementations, digital logic experiments, and hardware design practice.      |
-| **Computer Systems Projects** | Projects related to operating systems, computer architecture, and systems programming. |
-| **Embedded Systems**          | Small embedded and hardware–software integration projects.                             |
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Resume Analyzer** | AI-powered resume analysis platform featuring resume parsing, structured analysis, resume enhancement, and ATS-oriented feedback. |
+| **Memory Management Unit (Verilog)** | RTL implementation of a Memory Management Unit (MMU), exploring virtual memory concepts, address translation, and hardware design using Verilog. |
+| **12-bit ISA Simulator & Assembler** | Custom instruction set architecture simulator and assembler developed in C++, demonstrating instruction decoding, execution, and assembly translation. |
+| **1-Bit ALU using Verilog** | RTL implementation of a 1-bit Arithmetic Logic Unit supporting fundamental arithmetic and logical operations. |
 
 ---
 
