@@ -7,10 +7,6 @@ Rajalakshmi Engineering College • India
 
 Passionate about **Computer Architecture**, **Operating Systems**, **Digital Logic**, and **Embedded Systems**.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
