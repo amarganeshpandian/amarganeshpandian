@@ -1,12 +1,11 @@
-```markdown
 <div align="center">
 
 # S. Amar Ganesh
 
-**Computer Science and Engineering Student**  
+**Computer Science and Engineering Student**
 Rajalakshmi Engineering College • India
 
-Passionate about **Computer Systems**, from digital logic and processor design to operating systems and low-level software.
+Passionate about **Computer Architecture**, **Operating Systems**, **Digital Logic**, and **Embedded Systems**.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" alt="Profile Views"/>
@@ -16,128 +15,122 @@ Passionate about **Computer Systems**, from digital logic and processor design t
 
 ---
 
-## About Me
+# About Me
 
-I am a Computer Science and Engineering student with a strong interest in understanding how computers work from the hardware level to the operating system. I enjoy learning system-level concepts, building practical projects, and continuously strengthening my fundamentals in computer systems.
+I am a Computer Science and Engineering student with a strong interest in computer systems. I enjoy understanding how computers work from the hardware level to the operating system, with a focus on processor architecture, RTL design, and low-level software.
 
----
-
-## Areas of Interest
-
-<table>
-<tr>
-<td valign="top">
-
-- Computer Architecture
-- Digital Logic Design
-- Operating Systems
-
-</td>
-<td valign="top">
-
-- Embedded Systems
-- Software Engineering
-- RTL Design (Verilog)
-
-</td>
-</tr>
-</table>
+I am continuously improving my knowledge by building projects, studying system fundamentals, and exploring modern computer architectures.
 
 ---
 
-## Currently Learning
+# Areas of Interest
 
-- Instruction Set Architecture (ISA)
-- Processor Microarchitecture
-- RTL Design using Verilog
-- Embedded Systems
-- System Software
-- Linux Fundamentals
+* Computer Architecture
+* Digital Logic Design
+* Operating Systems
+* Embedded Systems
+* Software Engineering
+* RTL Design (Verilog)
 
 ---
 
-## Technologies
+# Currently Learning
 
-### Languages
+* Instruction Set Architecture (ISA)
+* Processor Microarchitecture
+* RTL Design using Verilog
+* Embedded Linux
+* Computer Organization
+* Operating System Internals
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge"/>
-</p>
+---
 
-### Tools
+# Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,python" />
+<img src="https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge"/>
 </p>
 
 ---
 
-## GitHub Statistics
+# Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,vscode,neovim,linux" />
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=github-dark\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# Featured Projects
+
+| Project                       | Description                                                                            |
+| ----------------------------- | -------------------------------------------------------------------------------------- |
+| **Resume Analyzer**           | AI-powered resume analysis platform with resume parsing and intelligent feedback.      |
+| **RTL Design Projects**       | Verilog implementations, digital logic experiments, and hardware design practice.      |
+| **Computer Systems Projects** | Projects related to operating systems, computer architecture, and systems programming. |
+| **Embedded Systems**          | Small embedded and hardware–software integration projects.                             |
+
+---
+
+# Goals
+
+* Strengthen my foundations in Computer Architecture and Operating Systems.
+* Build practical RTL and embedded systems projects.
+* Contribute to open-source systems software.
+* Explore processor design and modern computer systems.
+
+---
+
+# Connect
+
+<p align="left">
+
+<a href="mailto:pandianamarganesh8@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
+*"Understanding computers from transistors to software."*
 
 </div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
----
-
-## Featured Projects
-
-> Replace these with your repositories.
-
-- **Resume Analyzer** — AI-powered resume analysis platform.
-- **RTL Design Projects** — Verilog implementations and digital design experiments.
-- **Computer Systems Projects** — Projects related to operating systems and computer architecture.
-- **Embedded Systems** — Hardware/software interfacing experiments.
-
----
-
-## Goals
-
-- Build strong fundamentals in Computer Systems.
-- Contribute to open-source systems software.
-- Develop projects in RTL Design and Computer Architecture.
-- Explore modern processor and operating system design.
-
----
-
-## Connect
-
-- **Email:** `pandianamarganesh8@gmail.com`
-
----
-
-<div align="center">
-
-*"Learning the fundamentals. Building the future."*
-
-</div>
-```
