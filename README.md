@@ -32,15 +32,6 @@ Current areas of exploration include ISA design, microarchitecture, RTL design u
 
 ---
 
-## Current Focus
-
-- Learning RTL Design with Verilog
-- Studying Computer Architecture and Operating Systems
-- Exploring Embedded Systems
-- Building projects related to system software and digital design
-
----
-
 ## Contact
 
 **Email:** pandianamarganesh8@gmail.com
