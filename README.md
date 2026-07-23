@@ -70,7 +70,7 @@ I am continuously improving my knowledge by building projects, studying system f
 # GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=amarganeshpandian&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ I am continuously improving my knowledge by building projects, studying system f
 # GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amarganeshpandian&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
