@@ -46,8 +46,13 @@ I enjoy understanding how computers work from the hardware level to system softw
 
 I regularly solve HDLBits exercises to strengthen my understanding of digital logic and RTL design.
 
-🔗 **HDLBits Profile**  
-https://hdlbits.01xz.net/wiki/Special:VlgStats/EE956270CF04CBD7
+<p align="left">
+
+<a href="https://hdlbits.01xz.net/wiki/Special:VlgStats/EE956270CF04CBD7">
+<img src="https://img.shields.io/badge/Visit-HDLBits-success?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
