@@ -2,10 +2,10 @@
 
 # S. Amar Ganesh
 
-**Computer Science and Engineering Student**
+**Computer Science and Engineering Student**  
 Rajalakshmi Engineering College • India
 
-Passionate about **Computer Architecture**, **Operating Systems**, **Digital Logic**, and **Embedded Systems**.
+Passionate about **Computer Architecture**, **Processor Design**, **Operating Systems**, **Digital Logic**, and **Embedded Systems**.
 
 </div>
 
@@ -13,38 +13,48 @@ Passionate about **Computer Architecture**, **Operating Systems**, **Digital Log
 
 # About Me
 
-I am a Computer Science and Engineering student with a strong interest in computer systems. I enjoy understanding how computers work from the hardware level to the operating system, with a focus on processor architecture, RTL design, and low-level software.
+I am a Computer Science and Engineering student with a strong interest in computer systems. My primary interests are **computer architecture**, **processor microarchitecture**, **RTL design**, and **operating systems**.
 
-I am continuously improving my knowledge by building projects, studying system fundamentals, and exploring modern computer architectures.
+I enjoy understanding how computers work from the hardware level to system software by building projects, studying system fundamentals, and exploring modern processor architectures.
 
 ---
 
 # Areas of Interest
 
-* Computer Architecture
-* Digital Logic Design
-* Operating Systems
-* Embedded Systems
-* Software Engineering
-* RTL Design (Verilog)
+- Computer Architecture
+- Processor Microarchitecture
+- RTL Design (Verilog)
+- Digital Logic Design
+- Operating Systems
+- Embedded Systems
+- Software Engineering
 
 ---
 
 # Currently Learning
 
-* Instruction Set Architecture (ISA)
-* Processor Microarchitecture
-* RTL Design using Verilog
-* Embedded Linux
-* Computer Organization
-* Operating System Internals
+- RISC-V Architecture
+- Processor Microarchitecture
+- RTL Design with Verilog
+- Digital System Design
+- Operating System Internals
+- Embedded Linux
+
+---
+
+# HDLBits Progress
+
+I regularly solve HDLBits exercises to strengthen my understanding of digital logic and RTL design.
+
+🔗 **HDLBits Profile**  
+https://hdlbits.01xz.net/wiki/Special:VlgStats/EE956270CF04CBD7
 
 ---
 
 # Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
 <img src="https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge"/>
 </p>
 
@@ -53,7 +63,16 @@ I am continuously improving my knowledge by building projects, studying system f
 # Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,vscode,neovim,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux" />
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amarganeshpandian&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarganeshpandian&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -70,7 +89,7 @@ I am continuously improving my knowledge by building projects, studying system f
 
 <p align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarganeshpandian\&theme=github-dark\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarganeshpandian&theme=github-dark&hide_border=true)](https://github.com/amarganeshpandian)
 
 </p>
 
@@ -86,12 +105,10 @@ I am continuously improving my knowledge by building projects, studying system f
 
 # Featured Projects
 
-# Featured Projects
-
 | Project | Description |
 |---------|-------------|
 | **Resume Analyzer** | AI-powered resume analysis platform featuring resume parsing, structured analysis, resume enhancement, and ATS-oriented feedback. |
-| **Memory Management Unit (Verilog)** | RTL implementation of a Memory Management Unit (MMU), exploring virtual memory concepts, address translation, and hardware design using Verilog. |
+| **Memory Management Unit (Verilog)** | RTL implementation of a Memory Management Unit (MMU) exploring virtual-to-physical address translation and memory management concepts. |
 | **12-bit ISA Simulator & Assembler** | Custom instruction set architecture simulator and assembler developed in C++, demonstrating instruction decoding, execution, and assembly translation. |
 | **1-Bit ALU using Verilog** | RTL implementation of a 1-bit Arithmetic Logic Unit supporting fundamental arithmetic and logical operations. |
 
@@ -99,10 +116,11 @@ I am continuously improving my knowledge by building projects, studying system f
 
 # Goals
 
-* Strengthen my foundations in Computer Architecture and Operating Systems.
-* Build practical RTL and embedded systems projects.
-* Contribute to open-source systems software.
-* Explore processor design and modern computer systems.
+- Strengthen my foundations in Computer Architecture and Operating Systems.
+- Build practical RTL and embedded systems projects.
+- Design processor components using Verilog.
+- Contribute to open-source systems software.
+- Explore modern processor and computer system design.
 
 ---
 
@@ -120,6 +138,6 @@ I am continuously improving my knowledge by building projects, studying system f
 
 <div align="center">
 
-*"Understanding computers from transistors to software."*
+*"Understanding computers from transistors to system software."*
 
 </div>
