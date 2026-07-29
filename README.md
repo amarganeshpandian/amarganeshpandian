@@ -38,8 +38,7 @@ I enjoy understanding how computers work from the hardware level to system softw
 - RTL Design with Verilog
 - Digital System Design
 - Operating System Internals
-- Embedded Linux
-
+- 
 ---
 
 # HDLBits Progress
